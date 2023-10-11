@@ -1,0 +1,20 @@
+add cities migration entity entities:
+  title: 'Create new Cities migration entity entities'
+
+administer cities migration entity entities:
+  title: 'Administer Cities migration entity entities'
+  description: 'Allow to access the administration form to configure Cities migration entity entities.'
+  restrict access: true
+
+delete cities migration entity entities:
+  title: 'Delete Cities migration entity entities'
+
+edit cities migration entity entities:
+  title: 'Edit Cities migration entity entities'
+
+view published cities migration entity entities:
+  title: 'View published Cities migration entity entities'
+
+view unpublished cities migration entity entities:
+  title: 'View unpublished Cities migration entity entities'
+
